@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1022337050103",
+    "project_id": "order-shots-mobile",
+    "storage_bucket": "order-shots-mobile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1022337050103:android:2639a4cdd89ee621e93af2",
+        "android_client_info": {
+          "package_name": "com.order_shots_mobile.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1022337050103-7ragvfbp1leep4n9rrpfjqcjdh38rc0b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkbTC5Mpk8uPi19LnshVcRN6ZQL9zJPf0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1022337050103-7ragvfbp1leep4n9rrpfjqcjdh38rc0b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
