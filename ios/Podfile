@@ -8,6 +8,6 @@ target 'Runner' do
   # Pods for Runner
   pod 'Firebase/Core'
   pod 'Firebase/Auth'
-  pod 'Firebase/Cloud_Firestore'
+  pod 'Firebase/Firestore'
 
 end
