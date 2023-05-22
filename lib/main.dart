@@ -23,6 +23,7 @@ class MyApp extends StatelessWidget {
       initialData: null,
       catchError: (context, error) => null,
       child: const MaterialApp(
+        debugShowCheckedModeBanner: false,
         home: Wrapper(),
       ),
     );
